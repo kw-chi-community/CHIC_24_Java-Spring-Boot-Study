@@ -3,9 +3,18 @@
 ### 자바스프링부트 스터디
 최현준20, 박천수21
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<p align="left">
+  <img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRns1pC5HUQt3mxU82Gg7qbqFfqkpwEw3-ZJvmc-5rDAuenK1g2' width='150px'>
+  <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xjol0a6r/6295af0adb80456dbbe7f99e949600d2.jpg" width="150px" >
+  <img src="https://blog.kakaocdn.net/dn/RjCpI/btrG7ZmnpCy/gUVOtKjz6vVR8tADUDRxU0/img.png" width="150px" >
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</p>
 
-<img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRns1pC5HUQt3mxU82Gg7qbqFfqkpwEw3-ZJvmc-5rDAuenK1g2' width='300px'>
+
 
 ##### Java_SpringBoot_Study
 
