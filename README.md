@@ -3,6 +3,7 @@
 ### 자바스프링부트 스터디
 최현준20, 박천수21
 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 <img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRns1pC5HUQt3mxU82Gg7qbqFfqkpwEw3-ZJvmc-5rDAuenK1g2' width='300px'>
 
