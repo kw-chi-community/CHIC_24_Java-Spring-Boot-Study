@@ -4,7 +4,7 @@
 최현준20, 박천수21
 
 
-<img src=public/images/스프링부트.png' width='300px'>
+<img src='public/images/스프링부트.png' width='300px'>
 
 ##### Java_SpringBoot_Study
 
